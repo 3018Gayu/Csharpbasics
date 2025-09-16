@@ -15,6 +15,13 @@ class Dog : Animal
         Console.WriteLine("Dog barks");
     }
 }
+class cat : Animal
+{
+    public override void sound()
+    {
+        Console.WriteLine("cat meow");
+    }
+}
 class Program
 {
     static void Main()
