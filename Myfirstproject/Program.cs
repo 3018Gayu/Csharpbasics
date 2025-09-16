@@ -28,7 +28,7 @@ class Program
     {
         Animal a = new Dog();
         a.sound();
-        Console.WriteLine("");
+        Console.WriteLine("hello");
     }
 }
 
