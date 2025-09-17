@@ -1,12 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Myfirstproject
 {
-    internal class Polymorphism_Types
+    class Program
     {
+        static void Main(String[] args)
+        {
+            Console.WriteLine("Polymorphism Types in C#");
+        }
     }
 }
